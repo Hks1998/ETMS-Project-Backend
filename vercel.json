@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "etms_backend",
+  "name": "etms_project_backend",
   "builds": [
     {
       "src": "index.js",
